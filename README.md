@@ -1,6 +1,6 @@
 <h1 align="center">
     Yoo, I'm Titouan Pradal and here is my github profil :)
-    ![](./bonjour.gif)
+    ![]([./bonjour.gif](https://github.com/TitouanPrl/TitouanPrl/blob/main/bonjour.gif))
 </h1>
     
 <h2> I'm a CY-Tech (ex-EISTI) student in computer science ! </h2>
