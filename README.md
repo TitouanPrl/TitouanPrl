@@ -1,18 +1,14 @@
 <h1 align="center">
     Yoo, I'm Titouan Pradal and here is my github profil :)
-    <div class="tenor-gif-embed" data-postid="13920747" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%">
-        <a href="https://tenor.com/view/bonjour-hello-oss117-jean-dujardin-hubert-bonisseur-de-la-bath-gif-13920747">Bonjour Hello GIF</a>
-        from <a href="https://tenor.com/search/bonjour-gifs">Bonjour GIFs</a>
-    </div> 
-    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    </h1>
+    <img src="https://tenor.com/6zAl.gif">
+</h1>
     
     <h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
       
     - 🇫🇷 I'm a French student from Toulouse (chocolatine you know)
     - 👀 My main interest is cybersecurity and team working  
     - 📱 Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
-    - 💛 Things I love : my dog 🐶, travelling :airplane:, and practicing sport :runner:
+    - 💛 Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃
     
     ## Favorite Tech
     > My favorite Tools, languages and stuff I like to work with.
