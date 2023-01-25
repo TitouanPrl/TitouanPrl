@@ -2,7 +2,7 @@
     Yoo, I'm Titouan Pradal and here is my github profil :)
 </h1>
 
-<p align="center">
+<p align="center">(https://github.com/TitouanPrl/TitouanPrl/blob/main/bonjour.gif)
 ![./bonjour.gif]
 </p>    
     
