@@ -1,6 +1,6 @@
 <h1 align="center">
     Yoo, I'm Titouan Pradal and here is my github profil :)
-    <img src="https://tenor.com/view/bonjour-hello-oss117-jean-dujardin-hubert-bonisseur-de-la-bath-gif-13920747">
+    <div class="tenor-gif-embed" data-postid="13920747" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%"><a href="https://tenor.com/view/bonjour-hello-oss117-jean-dujardin-hubert-bonisseur-de-la-bath-gif-13920747">Bonjour Hello GIF</a>from <a href="https://tenor.com/search/bonjour-gifs">Bonjour GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     </h1>
     
     <h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
