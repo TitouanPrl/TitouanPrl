@@ -3,12 +3,12 @@
     <img src="https://tenor.com/6zAl.gif">
 </h1>
     
-    <h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
+<h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
       
-    - 🇫🇷 I'm a French student from Toulouse (chocolatine you know)
-    - 👀 My main interest is cybersecurity and team working  
-    - 📱 Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
-    - 💛 Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃
+- 🇫🇷 I'm a French student from Toulouse (chocolatine you know)
+- 👀 My main interest is cybersecurity and team working  
+- 📱 Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
+- 💛 Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃
     
     ## Favorite Tech
     > My favorite Tools, languages and stuff I like to work with.
