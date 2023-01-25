@@ -2,7 +2,9 @@
     Yoo, I'm Titouan Pradal and here is my github profil :)
 </h1>
 
-![./bonjour.gif](https://github.com/TitouanPrl/TitouanPrl/blob/main/bonjour.gif)
+<p align="center">
+![./bonjour.gif]
+</p>    
     
 <h2> I'm a CY-Tech (ex-EISTI) student in computer science ! </h2>
       
