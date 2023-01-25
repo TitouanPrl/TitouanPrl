@@ -3,7 +3,7 @@
     <img src="https://tenor.com/6zAl.gif">
 </h1>
     
-<h2> I'm a CY-Tech (EX: EISTI) student in computer science ! </h2>
+<h2> I'm a CY-Tech (ex-EISTI) student in computer science ! </h2>
       
 - 🇫🇷 I'm a French student from Toulouse (chocolatine you know)
 - 👀 My main interest is cybersecurity and team working  
