@@ -20,7 +20,7 @@
 
 "My hero" - Spider-Man
 
-"i swear this guy is good" - Elon Musk
+"I swear this guy is good" - Elon Musk
 
 "It's my wallpaper on my phone" - My mother
 
