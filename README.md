@@ -14,16 +14,20 @@
 
 <h3> A few 100% true comments about me </h3>
  
-<p>"An incredible young man" - Le Figaro
+ <table align="center">
+    <tr>
+         "An incredible young man" - Le Figaro
 
-"The example to follow for all French citizens" - Le Monde
+         "The example to follow for all French citizens" - Le Monde
 
-"My hero" - Spider-Man
+         "My hero" - Spider-Man
 
-"A really nice guy" - Jean Lassalle
+         "A really nice guy" - Jean Lassalle
 
-"It's my wallpaper on my phone" - My mother
-</p>
+         "It's my wallpaper on my phone" - My mother
+    </tr>
+ </table>
+    
     
 ## Favorite Tech
    > My favorite Tools, languages and stuff I like to work with.
@@ -56,14 +60,10 @@
     #elmt2 {float:right;}
 </style>
 
-<div id="elmt1" display=inline-block>
-  
+  <p align="center">
      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitouanPrl&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Codes" alt="Top Langs" />
-   
-</div>
+   </p>
 
-<div id="elmt2" display=inline-block>
-   
+  <p align="center">   
         <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=TitouanPrl&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues&custom_title=My%20GitHub%20Stats" alt="Sylvain Jalbert Stats" />
-    
-</div>
+    </p>
