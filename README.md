@@ -7,11 +7,23 @@
 </p>
     
 <h2> I'm a CY-Tech (ex-EISTI) student in computer science ! </h2>
-      
-- 🇫🇷 I'm a French student from Toulouse (chocolatine you know)
-- 👀 My main interest is cybersecurity and team working  
-- 📱 Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
-- 💛 Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃
+     
+💻 - I'm mostly interested by cybersecurity and C language, I also enjoy working with a team. 
+📱 - Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
+- 💛 Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃 
+
+<h3> A few 100% true comments about me </h3>
+ 
+<p>"An incredible young man" - Le Figaro
+
+"The example to follow for all French citizens" - Le Monde
+
+"My hero" - Spider-Man
+
+"A really nice guy" - Jean Lassalle
+
+"It's my wallpaper on my phone" - My mother
+</p>
     
     ## Favorite Tech
     > My favorite Tools, languages and stuff I like to work with.
