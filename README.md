@@ -14,19 +14,16 @@
 
 <h3> A few 100% true comments about me </h3>
  
- <table align="center">
-    <tr>
-         "An incredible young man" - Le Figaro
+"An incredible young man" - Le Figaro
 
-         "The example to follow for all French citizens" - Le Monde
+"The example to follow for all French citizens" - Le Monde
 
-         "My hero" - Spider-Man
+"My hero" - Spider-Man
 
-         "A really nice guy" - Jean Lassalle
+"A really nice guy" - Jean Lassalle
 
-         "It's my wallpaper on my phone" - My mother
-    </tr>
- </table>
+"It's my wallpaper on my phone" - My mother
+
     
     
 ## Favorite Tech
