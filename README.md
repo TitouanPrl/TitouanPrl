@@ -12,7 +12,7 @@
 - 📱 - Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
 - 💛 - Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃 
 
-<h3> A few 100% true comments about me </h3>
+## A few 100% true comments about me 
  
 "An incredible young man" - Le Figaro
 
