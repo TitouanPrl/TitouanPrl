@@ -20,7 +20,7 @@
 
 "My hero" - Spider-Man
 
-"A really nice guy" - Jean Lassalle
+"i swear this guy is good" - Elon Musk
 
 "It's my wallpaper on my phone" - My mother
 
