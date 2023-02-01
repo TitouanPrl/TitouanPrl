@@ -56,14 +56,14 @@
     #elmt2 {float:right;}
 </style>
 
-<div id="elmt1">
-   <p display=inline-block>
+<div id="elmt1" display=inline-block>
+  
      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitouanPrl&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Codes" alt="Top Langs" />
-    </p>
+   
 </div>
 
-<div id="elmt2">
-   <p display=inline-block>
+<div id="elmt2" display=inline-block>
+   
         <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=TitouanPrl&show_icons=true&count_private=true&title_color=fff&icon_color=0055CC&text_color=9f9f9f&bg_color=181818&border_color=0055CC&hide=contribs,issues&custom_title=My%20GitHub%20Stats" alt="Sylvain Jalbert Stats" />
-    </p>
+    
 </div>
