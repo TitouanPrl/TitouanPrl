@@ -10,7 +10,7 @@
      
 - 💻 - I'm mostly interested by cybersecurity and C language, I also enjoy working with a team. 
 - 📱 - Reach me : by phone (+33 7 82 77 82 67), by mail (titouan.pradal@gmail.com).
-- 💛 - Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃 
+- 🤌 - Things I love : my dog 🐶, travelling ✈️, and practicing sport 🏃 
 
 ## A few 100% true comments about me 
  
