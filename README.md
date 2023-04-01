@@ -52,10 +52,6 @@
    ## Stats
    > Some statistics about my work
    
-<style type="text/css">
-    #elmt1 {float:left;}
-    #elmt2 {float:right;}
-</style>
 
   <p align="center">
      <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitouanPrl&count_private=true&title_color=fff&text_color=9f9f9f&bg_color=181818&border_color=0055CC&layout=compact&langs_count=10&custom_title=Languages%20In%20My%20Public%20Codes" alt="Top Langs" />
